@@ -8,9 +8,9 @@ ii.Making Android and IOS apps
 
 iii.Python
 
-IV.Computer science
+iv.Computer science
 
-V.And more
+v.And more
 
 Im learning right now: Python and SQL
 
