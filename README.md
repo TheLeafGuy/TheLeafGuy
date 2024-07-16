@@ -2,15 +2,15 @@ Print("Hi im @TheLeafGuy")
 
 Im interested in:
 
-Web Develoment
+i.Web Develoment
 
-Making Android and IOS apps
+ii.Making Android and IOS apps
 
-Python
+iii.Python
 
-Computer science
+IV.Computer science
 
-And more
+V.And more
 
 Im learning right now: Python and SQL
 
